@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643646579 source:c:\users\lenovo\desktop\semester 3\project iseng haha\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+

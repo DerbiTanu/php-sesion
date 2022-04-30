@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637043324 source:c:\users\lenovo\desktop\semester 3\animasi\main.cpp
+	<iostream>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
